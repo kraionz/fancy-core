@@ -1,0 +1,11 @@
+{
+    "name": "Module",
+    "module": "Module",
+    "provider": "Providers\\AppServiceProvider",
+    "author": "Creatyon",
+    "url": "http:\/\/coreyon.com",
+    "version": "1.0",
+    "description": "Candelero",
+    "active": 0,
+    "core": 1
+}

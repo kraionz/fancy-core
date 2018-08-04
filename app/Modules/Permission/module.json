@@ -1,0 +1,11 @@
+{
+    "name": "Permission",
+    "module": "Permission",
+    "provider": "Providers\\AppServiceProvider",
+    "author": "Creatyon",
+    "url": "http:\/\/Creatyon.com",
+    "version": "1.0",
+    "description": "Permission",
+    "active": 0,
+    "core": 0
+}

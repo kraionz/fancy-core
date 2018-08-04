@@ -1,0 +1,16 @@
+{
+    "name": "Demo",
+    "module": "Demo",
+    "provider": "Providers\\AppServiceProvider",
+    "author": [
+        {
+            "name": "Andres",
+            "email": "andres@creatyon.com"
+        }
+    ],
+    "url": "http:\/\/coreyon.com",
+    "version": "1.0",
+    "description": "Demo Description",
+    "active": 0,
+    "core": 0
+}
